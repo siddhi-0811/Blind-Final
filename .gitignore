@@ -1,0 +1,9 @@
+.venv/
+__pycache__/
+*.py[cod]
+.env
+known_faces/
+chat_history/
+.git/
+.git-backup/
+smart_aid_audio/*.mp3

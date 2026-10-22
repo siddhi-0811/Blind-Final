@@ -1,0 +1,10 @@
+# Windows AI: object detection, OCR, and voice
+ultralytics==8.4.183
+gTTS==2.5.4
+easyocr==1.7.2
+pygame==2.6.1
+pytesseract==0.3.13
+Pillow==13.0.0
+
+# OpenCV: use the contrib build for face recognition
+opencv-contrib-python==4.11.0.86
